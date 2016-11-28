@@ -4,9 +4,12 @@ Male right-angle pins (40),1,0.92,0.92,,http://www.digikey.com/product-detail/en
 "Female header pin housing, 4pos",4,0.2,0.8,,https://www.digikey.com/product-detail/en/harwin-inc/M20-1060400/952-2229-ND/3728193
 Female header pin,74,0.0594,4.3956,,https://www.digikey.com/product-detail/en/harwin-inc/M20-1160042/952-2157-1-ND/3728122
 4PDT switch,1,1.42,1.42,,http://www.digikey.com/product-detail/en/e-switch/PBH4UOANAGX/EG2658-ND/805274
-DPDT switch,4,1.36,5.44,,http://www.digikey.com/short/3b1bhm
+DPDT switch,4,1.24,4.96,,http://www.digikey.com/short/3b1bhm
 PCB,2,1.09,2.18,,http://www.digikey.com/product-detail/en/chip-quik-inc/SBBTH1506-1/SBBTH1506-1-ND/5978222
 Green LED,13,0.238,3.094,,http://www.digikey.com/product-detail/en/marktech-optoelectronics/MT2118-G-A/1125-1184-ND/4214619
 Red LED,13,0.257,3.341,,http://www.digikey.com/product-detail/en/marktech-optoelectronics/MT4118-HR-A/1125-1188-ND/4214622
+Battery clip,1,0.6,0.6,,http://www.digikey.com/product-detail/en/keystone-electronics/232/36-232-ND/303804
+Battery,1,1.88,1.88,,http://www.digikey.com/product-detail/en/panasonic-bsg/6LF22XWA-B/P687-ND/5067196
+Resistor,4,0.1,0.4,,http://www.digikey.com/product-detail/en/vishay-dale/RN60D2500FB14/1135-1592-ND/3193891
 ,,,,,
-,,,24.7806,,
+,,,26.7806,,
